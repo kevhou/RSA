@@ -4,6 +4,7 @@ RSA Encryption/Decryption Program
 Instructions:
 
   Create encryption & decryption keys:
+    
     1. Enter two distinctive (greater than 10) primes p and q
     2. Enter an integer e so that gcd(e,phi(n)) = 1
     3. Use the Public encryption key to encrypt messages.
