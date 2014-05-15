@@ -1,4 +1,4 @@
-RSA
+RSA Encryption/Decryption Program
 ===
 
 Instructions:
@@ -15,7 +15,7 @@ Instructions:
     3. Record the ciphered text info
     4. Record the number of characters in the text
   
-  RSA Decryption:\n");
+  RSA Decryption:
     1. Enter d and n values in the Private decryption key
     2. Enter the number of chars in the encrypted text
     3. Enter the each chars in the encrypted text
