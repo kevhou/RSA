@@ -1,6 +1,8 @@
 RSA Encryption/Decryption Program
 ===
 
+Download ZIP and Run RSA executable
+
 Instructions:
 
   Create encryption & decryption keys:
